@@ -1,5 +1,6 @@
 {
   "name": "mn-inheritance",
+  "version": "1.0.0-rc1-final",
   "description": "JavaScript OOP",
   "repository": {
     "type": "git",
