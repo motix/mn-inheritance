@@ -1,6 +1,6 @@
 {
   "name": "mn-inheritance",
-  "version": "1.0.0-rc1-final",
+  "version": "1.0.0-rc3-final",
   "description": "MotiNet JavaScript OOP",
   "main": "./dist/mn-inheritance.js",
   "authors": [
