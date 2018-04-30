@@ -1,0 +1,14 @@
+{
+  "name": "mn-inheritance",
+  "description": "JavaScript OOP",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/motix/mn-inheritance.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uglify": "1.2.0",
+    "rimraf": "2.2.8"
+  }
+}

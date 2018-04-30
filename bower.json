@@ -1,0 +1,27 @@
+{
+  "name": "mn-inheritance",
+  "version": "1.0.0-rc1",
+  "description": "MotiNet JavaScript OOP",
+  "main": "./dist/mn-inheritance.js",
+  "authors": [
+    "Minh Nguyen <minh.nguyen@motix.vn>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "MotiNet",
+    "JavaScript",
+    "inheritance",
+    "OOP"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "https://github.com/motix/mn-inheritance",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
