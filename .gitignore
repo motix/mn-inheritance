@@ -3,3 +3,4 @@ bower_components/
 typings/
 .vs/
 .vscode/
+package-lock.json

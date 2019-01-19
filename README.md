@@ -1,1 +1,1 @@
-# pn-inheritance
+# mn-inheritance
